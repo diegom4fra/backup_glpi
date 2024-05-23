@@ -6,7 +6,7 @@ O script realiza backup dos seguintes diretórios:
 /etc/apache2/sites-available
 
 O resultado do script é um arquivo compactado com as pastas acima e, um Dump do banco do GLPI.
-Para funcionamento, basta apontar corretamente o diterório de destino.
+Para funcionamento, basta apontar corretamente as pastas do GLPI instalado e o diterório de destino do backup.
 
 Após editar o script, agende sua execução diária via crontab.
 
