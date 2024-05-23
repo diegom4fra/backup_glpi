@@ -7,7 +7,7 @@
 #Parâmetros
 DEST_DIR=/backup
 TIMESTAMP=$(date +%Y%m%d%H%M%S)
-DB_NAME="topocart_glpi"
+DB_NAME="glpidatabase"
 MANTER_VERSOES=7
 
 #Registra log de Start do Backup
